@@ -24,9 +24,7 @@ This roadmap provides a structured path to learn AI Product Management, includin
 - AI adoption challenges and opportunities
 - AI ethics and governance
 
-**Resources:**
-- Book: "The AI-First Company" by Ash Fontana
-- Course: INSEAD's "AI Strategy for Business Leaders" on Coursera
+
 
 ## 2. AI Product Strategy
 
