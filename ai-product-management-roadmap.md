@@ -1,4 +1,4 @@
-# AI Product Management Roadmap for Beginners
+# AI Product Management Roadmap 
 
 This roadmap provides a structured path for beginners to learn AI Product Management, including key topics and recommended resources for each stage.
 
