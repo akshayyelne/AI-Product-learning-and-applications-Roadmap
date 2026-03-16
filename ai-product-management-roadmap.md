@@ -15,9 +15,7 @@ This roadmap provides a structured path to learn AI Product Management, includin
 - Types of machine learning (supervised, unsupervised, reinforcement)
 - Common AI/ML applications in products
 
-**Resources:**
-- Book: "AI Crash Course" by Hadelin de Ponteves
-- Course: Coursera's "AI For Everyone" by Andrew Ng
+
 
 ### 1.3 Business Strategy for AI
 - AI transformation of industries
