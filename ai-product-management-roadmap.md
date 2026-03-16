@@ -196,10 +196,10 @@ This roadmap provides a structured path to learn AI Product Management, includin
 
 ## Progress and Next Steps
 
-1. Built the foundations and progressively moved through the roadmap.
+1. Built the foundations and progressively moving through the roadmap.
 3. Building a portfolio of AI product case studies or hypothetical AI product plans.
 4. Networking with AI product managers and attend AI product management events.
-5. Stay updated with the latest AI trends and their potential product applications.
+5. Staying updated with the latest AI trends and their potential product applications.
 6. Contributing to discussions on AI product management in online forums and social media.
 
 
