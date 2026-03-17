@@ -1,4 +1,4 @@
-# AI Product Management Roadmap 
+# AI Product Learning and its applications Roadmap 
 
 This roadmap provides a structured path to learn AI products and its applications, including key topics and recommended resources for each stage.
 
