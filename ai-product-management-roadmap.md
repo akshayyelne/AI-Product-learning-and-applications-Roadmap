@@ -1,6 +1,6 @@
 # AI Product Management Roadmap 
 
-This roadmap provides a structured path to learn AI Product Management, including key topics and recommended resources for each stage.
+This roadmap provides a structured path to learn AI products and its applications, including key topics and recommended resources for each stage.
 
 ## 1. Foundations
 
@@ -99,7 +99,7 @@ This roadmap provides a structured path to learn AI Product Management, includin
 
 
 
-## 6. AI Product Analytics
+## 6. AI Analytics
 
 ### 6.1 AI Performance Monitoring
 - Model performance metrics
@@ -156,7 +156,7 @@ This roadmap provides a structured path to learn AI Product Management, includin
 
 
 
-## 9. Emerging Trends in AI Product Management
+## 9. Emerging Trends in AI 
 
 ### 9.1 Edge AI and IoT
 - Managing AI products for edge devices
@@ -174,7 +174,7 @@ This roadmap provides a structured path to learn AI Product Management, includin
 - Quantum-inspired algorithms for near-term applications
 
 
-## 10. Building AI Product Management Career
+## 10. Building career in AI
 
 ### 10.1 AI PM Skill Development
 - Technical skills for AI PMs (basic coding, data analysis)
